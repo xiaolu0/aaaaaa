@@ -8,3 +8,4 @@ aaaaa
 bbbbbbbb
 kehqhd
 sssssssdddfff
+Creating a new branch is quick.
